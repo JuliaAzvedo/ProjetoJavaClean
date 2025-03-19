@@ -14,9 +14,7 @@ Sobrescreve a cópia criada no destino mantendo a estrutura original sem alterar
 
 
 # Tecnologias utilizadas
-Linguagem Java
-Bibliotecas: java.io e java.nio
-Orientação a objetos
+Linguagem Java; Bibliotecas: java.io e java.nio; Orientação a objetos.
 
 # Como utilizar o projeto
 Clone o repositório:
