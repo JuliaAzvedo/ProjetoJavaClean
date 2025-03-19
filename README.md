@@ -12,12 +12,8 @@ Lê linha por linha dos arquivos Java e remove os comentários.
 
 Sobrescreve a cópia criada no destino mantendo a estrutura original sem alterar os arquivos da origem.
 
-#Tecnologias utilizadas
-Java 
-Classes utilitárias e Bibliotecas Java
-Orientação a objetos
 
-# Tecnologias 
+# Tecnologias utilizadas
 Linguagem Java
 Bibliotecas: java.io e java.nio
 Orientação a objetos
