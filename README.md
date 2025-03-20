@@ -1,6 +1,5 @@
 # Sobre este projeto 
-Projeto pessoal desenvolvido para automatizar o processo de remoção de comentários em arquivos Java antes de disponibiliza-los no GitHub. 
-O objetivo do projeto é otimizar tempo e manter o código limpo. 
+Projeto pessoal desenvolvido para automatizar o processo de remoção de comentários em arquivos Java antes de disponibiliza-los no GitHub, ootimizando tempo e mantendo o código limpo. 
 A ideia é poder estudar e adicionar comentários ao código para melhorar a aprendizagem sem se preocupar em ter que apagar tudo manualmente antes de subir os códigos no github.
 
 # Funcionalidades
@@ -24,7 +23,7 @@ Em seguida, compile e execute o programa.
 
 Abra o programa em sua IDEA de preferencia, acesse o arquivo JavaClean na pasta service. 
 
-Na instancia da classe DirectoryReader, substitua "caminhoOrigem" pelo caminho do diretório que contenha os arquivos Java. Substitua "caminhoDestino" pelo caminho do diretório a ser criado para receber os arquivos da origem e sobrescreve-los sem comentários. 
+Nos parametros passados na instancia da classe DirectoryReader, substitua "caminhoOrigem" pelo caminho do diretório que contenha os arquivos Java. Substitua "caminhoDestino" pelo caminho do diretório a ser criado para receber os arquivos da origem e sobrescreve-los sem comentários. 
         
 Compile o código e seu novo diretório com arquivos Java livre de comentários será gerado no caminho que foi informado para o destino. 
 
